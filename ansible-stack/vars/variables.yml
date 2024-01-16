@@ -6,12 +6,12 @@ app_ami: ami-0261755bbcb8c4a84
 vpc_name: project_vpc
 
 # VPC range
-vpcCidr: 172.20.0.0/16
+vpcCidr: 10.0.0.0/16
 
 # Subnet range
-PubSub1Cidr: '172.20.1.0/24'
-PubSub2Cidr: '172.20.2.0/24'
-PubSub3Cidr: '172.20.3.0/24'
+PubSub1Cidr: '10.0.1.0/24'
+PubSub2Cidr: '10.0.2.0/24'
+PubSub3Cidr: '10.0.3.0/24'
 
 # Zone names
 zone1: us-east-1a
@@ -22,4 +22,4 @@ zone3: us-east-1c
 region : us-east-1
 
 # GitHub URL
-git_url: https://github.com/Opeseen/ansible-aws-appdeploy.git
+git_url: https://github.com/Horpeyemi007/AWS-three-tier-Webappp.git
