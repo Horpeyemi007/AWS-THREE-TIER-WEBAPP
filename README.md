@@ -4,6 +4,6 @@ AUTOMATE DEPLOYMENT OF THREE TIER WEB APPLICATION WITH ANSIBLE ON AWS CLOUD PLAT
 
 ## STEPS
 
-CLICK ON THE LINK BELOW
+[url]: https://www.linkedin.com/pulse/automate-set-up-vpc-three-web-tier-applications-aws-using-alabi/
 
-https://www.linkedin.com/pulse/automate-set-up-vpc-three-web-tier-applications-aws-using-alabi/
+CLICK 👉 [here][url]
